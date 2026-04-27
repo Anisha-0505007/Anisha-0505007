@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LEVEL-23-8A2BE2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CLASS-Cyber%20Mage-A855F7?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/STATUS-Building%20Future-FACC15?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Specialization-Frontend%20Development-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Interest-AI%20%26%20ML-A855F7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Current%20Goal-Crack%20Internships-FACC15?style=for-the-badge" />
 </p>
 
 ---
