@@ -18,7 +18,7 @@
 
 ## 🧙‍♀️ About Me
 
-Hi 👋 I'm **Anisha Ghosh** — a passionate **Frontend Wizard**, **AI Builder**, and **Active Learner**.
+Hi 👋 I'm **Anisha Ghosh** , a passionate **Frontend Wizard**, **AI Builder**, and **Active Learner**.
 
 I love building beautiful user interfaces, exploring AI-powered products, and turning ideas into impactful digital experiences ✨
 
@@ -32,9 +32,6 @@ I love building beautiful user interfaces, exploring AI-powered products, and tu
 
 ---
 
-## 🎯 Quest Log
-
----
 
 ## 🏆 Achievements
 
