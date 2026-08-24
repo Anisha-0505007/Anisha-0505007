@@ -18,35 +18,20 @@
 
 <img
 src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=16&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=650&lines=%3E+building+interfaces+that+feel+alive;%3E+experimenting+with+AI;%3E+learning+by+building;%3E+turning+ideas+into+products"
+alt="Typing animation"
 />
 
 </div>
 
 ---
 
-<div align="center">
-
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│   ANISHA@GITHUB                                             │
-│   ─────────────────────────────────────────────────────────  │
-│                                                              │
-│   ROLE        Full-Stack Developer                             │
-│   FOCUS       UI / AI / DSA                                  │
-│   STATUS      Building                                      │
-│   LOCATION    India                                         │
-│                                                              │
-│   $ ./open-portfolio                                        │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
-
-<a href="https://anisha-ghosh.in/">
-  <img src="https://img.shields.io/badge/%24_OPEN_PORTFOLIO-8B5CF6?style=for-the-badge&labelColor=0D1117" />
-</a>
-
-</div>
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Anisha-0505007/Anisha-0505007/main/profile-card.svg"
+    width="95%"
+    alt="Anisha Ghosh developer dashboard"
+  />
+</p>
 
 ---
 
@@ -87,7 +72,10 @@ through projects, DSA, experimentation, and open source.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,react,html,css,java,python,nodejs,mysql,git,github,vscode&perline=11" />
+<img
+src="https://skillicons.dev/icons?i=js,react,html,css,java,python,nodejs,mysql,git,github,vscode&perline=11"
+alt="Technology stack"
+/>
 
 </div>
 
@@ -96,7 +84,8 @@ through projects, DSA, experimentation, and open source.
 <div align="center">
 
 `JavaScript` · `React` · `HTML` · `CSS` · `Java` · `Python`
-`Node.js` · `MySQL` · `Git` · `GitHub`
+
+`Node.js` · `MySQL` · `Git` · `GitHub` · `VS Code`
 
 </div>
 
@@ -109,10 +98,11 @@ through projects, DSA, experimentation, and open source.
 ### PAC-MAN // CONTRIBUTION MODE
 
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Anisha-0505007/Anisha-0505007/output/pacman-contribution-graph-dark.svg"
-  />
+
+<source
+ media="(prefers-color-scheme: dark)"
+ srcset="https://raw.githubusercontent.com/Anisha-0505007/Anisha-0505007/output/pacman-contribution-graph-dark.svg"
+/>
 
 <source
  media="(prefers-color-scheme: light)"
@@ -123,7 +113,9 @@ through projects, DSA, experimentation, and open source.
  src="https://raw.githubusercontent.com/Anisha-0505007/Anisha-0505007/output/pacman-contribution-graph.svg"
  alt="Pac-Man contribution graph"
  width="100%"
-/> </picture>
+/>
+
+</picture>
 
 <br>
 
@@ -139,6 +131,7 @@ PAC-MAN EATS MY CONTRIBUTIONS
 
 <table>
 <tr>
+
 <td width="50%">
 
 ### FRONTEND
@@ -164,9 +157,11 @@ Exploring:
 * practical AI integrations
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%">
 
 ### DSA
@@ -192,6 +187,7 @@ Learning through:
 * contributing
 
 </td>
+
 </tr>
 </table>
 
@@ -245,7 +241,13 @@ A browser-based speech-to-text application using web APIs.
 
 My personal portfolio showcasing projects, skills, experiments, and what I'm currently building.
 
-<a href="https://anisha-ghosh.in/">Visit anisha-ghosh.in</a>
+<br>
+
+<a href="https://anisha-ghosh.in/">
+  Visit anisha-ghosh.in
+</a>
+
+<br><br>
 
 `HTML` · `CSS` · `JavaScript`
 
@@ -274,11 +276,13 @@ My personal portfolio showcasing projects, skills, experiments, and what I'm cur
 <img
 height="170"
 src="https://github-readme-stats.vercel.app/api?username=Anisha-0505007&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=E5E7EB&rank_icon=github"
+alt="GitHub statistics"
 />
 
 <img
 height="170"
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anisha-0505007&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=E5E7EB"
+alt="Top programming languages"
 />
 
 </div>
@@ -289,6 +293,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anisha-05050
 
 <img
 src="https://github-readme-streak-stats.herokuapp.com/?user=Anisha-0505007&hide_border=true&background=0D1117&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6&sideLabels=E5E7EB&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=6B7280"
+alt="GitHub contribution streak"
 />
 
 </div>
@@ -300,19 +305,31 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=Anisha-0505007&hide_
 <div align="center">
 
 <a href="https://anisha-ghosh.in/">
-  <img src="https://img.shields.io/badge/PORTFOLIO-8B5CF6?style=for-the-badge&labelColor=0D1117" />
+  <img
+    src="https://img.shields.io/badge/PORTFOLIO-8B5CF6?style=for-the-badge&labelColor=0D1117"
+    alt="Portfolio"
+  />
 </a>
 
 <a href="https://github.com/Anisha-0505007">
-  <img src="https://img.shields.io/badge/GITHUB-FFFFFF?style=for-the-badge&labelColor=0D1117&logo=github&logoColor=white" />
+  <img
+    src="https://img.shields.io/badge/GITHUB-FFFFFF?style=for-the-badge&labelColor=0D1117&logo=github&logoColor=white"
+    alt="GitHub"
+  />
 </a>
 
 <a href="https://www.linkedin.com/in/anisha-ghosh-6345ba312/">
-  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&labelColor=0D1117&logo=linkedin&logoColor=white" />
+  <img
+    src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&labelColor=0D1117&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  />
 </a>
 
 <a href="mailto:ghoshanisha557@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&labelColor=0D1117&logo=gmail&logoColor=white" />
+  <img
+    src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&labelColor=0D1117&logo=gmail&logoColor=white"
+    alt="Email"
+  />
 </a>
 
 </div>
