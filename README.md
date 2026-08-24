@@ -1,347 +1,725 @@
-<div align="center">
+<svg width="1100" height="390" viewBox="0 0 1100 390" fill="none" xmlns="http://www.w3.org/2000/svg">
 
-# ANISHA GHOSH
+<defs>
 
-### Frontend Developer · AI Builder · Problem Solver
+  <linearGradient id="background" x1="0" y1="0" x2="1100" y2="390" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#0D1117"/>
+    <stop offset="0.55" stop-color="#111827"/>
+    <stop offset="1" stop-color="#171329"/>
+  </linearGradient>
 
-<p>
-  <a href="https://anisha-ghosh.in/">
-    <img src="https://img.shields.io/badge/PORTFOLIO-anisha--ghosh.in-8B5CF6?style=for-the-badge&labelColor=0D1117" />
-  </a>
-  <a href="https://github.com/Anisha-0505007">
-    <img src="https://img.shields.io/badge/GITHUB-Anisha--0505007-FFFFFF?style=for-the-badge&labelColor=0D1117&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/anisha-ghosh-6345ba312/">
-    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&labelColor=0D1117&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+  <linearGradient id="purple" x1="0" y1="0" x2="600" y2="0" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#7C3AED"/>
+    <stop offset="0.5" stop-color="#A855F7"/>
+    <stop offset="1" stop-color="#C084FC"/>
+  </linearGradient>
 
-<img
-src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=16&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=650&lines=%3E+building+interfaces+that+feel+alive;%3E+experimenting+with+AI;%3E+learning+by+building;%3E+turning+ideas+into+products"
-alt="Typing animation"
+  <linearGradient id="progress" x1="0" y1="0" x2="280" y2="0">
+    <stop stop-color="#7C3AED"/>
+    <stop offset="1" stop-color="#C084FC"/>
+  </linearGradient>
+
+  <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+    <feGaussianBlur stdDeviation="5" result="blur"/>
+    <feMerge>
+      <feMergeNode in="blur"/>
+      <feMergeNode in="SourceGraphic"/>
+    </feMerge>
+  </filter>
+
+</defs>
+
+<!-- Main window -->
+
+<rect
+x="5"
+y="5"
+width="1090"
+height="380"
+rx="18"
+fill="url(#background)"
+stroke="#30363D"
+stroke-width="2"
 />
 
-</div>
+<!-- Top bar -->
 
----
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/Anisha-0505007/Anisha-0505007/main/profile-card.svg"
-    width="95%"
-    alt="Anisha Ghosh developer dashboard"
-  />
-</p>
-
----
-
-## `01 / ABOUT`
-
-```text
-I build things for the web.
-
-My main interests are frontend development,
-AI-powered applications, and problem solving.
-
-I enjoy taking an idea from:
-
-concept → interface → implementation → product
-
-Currently focused on becoming a stronger engineer
-through projects, DSA, experimentation, and open source.
-```
-
-<details>
-<summary><b>More about me</b></summary>
-
-<br>
-
-```text
-01. Clean interfaces
-02. Good user experience
-03. Practical AI applications
-04. Understanding how things work
-05. Writing code that is actually useful
-```
-
-</details>
-
----
-
-## `02 / STACK`
-
-<div align="center">
-
-<img
-src="https://skillicons.dev/icons?i=js,react,html,css,java,python,nodejs,mysql,git,github,vscode&perline=11"
-alt="Technology stack"
+<rect
+x="5"
+y="5"
+width="1090"
+height="52"
+rx="18"
+fill="#0B0F14"
 />
 
-</div>
-
-<br>
-
-<div align="center">
-
-`JavaScript` · `React` · `HTML` · `CSS` · `Java` · `Python`
-
-`Node.js` · `MySQL` · `Git` · `GitHub` · `VS Code`
-
-</div>
-
----
-
-## `03 / CONTRIBUTION_GAME`
-
-<div align="center">
-
-### PAC-MAN // CONTRIBUTION MODE
-
-<picture>
-
-<source
- media="(prefers-color-scheme: dark)"
- srcset="https://raw.githubusercontent.com/Anisha-0505007/Anisha-0505007/output/pacman-contribution-graph-dark.svg"
+<rect
+x="5"
+y="39"
+width="1090"
+height="18"
+fill="#0B0F14"
 />
 
-<source
- media="(prefers-color-scheme: light)"
- srcset="https://raw.githubusercontent.com/Anisha-0505007/Anisha-0505007/output/pacman-contribution-graph.svg"
+<!-- Window buttons -->
+
+<circle cx="31" cy="31" r="6" fill="#FF5F57"/>
+<circle cx="52" cy="31" r="6" fill="#FEBC2E"/>
+<circle cx="73" cy="31" r="6" fill="#28C840"/>
+
+<!-- Terminal title -->
+
+<text
+x="100"
+y="36"
+fill="#8B949E"
+font-family="monospace"
+font-size="14"
+
+>
+
+anisha@github — developer_dashboard </text>
+
+<text
+x="1020"
+y="36"
+fill="#484F58"
+font-family="monospace"
+font-size="12"
+
+>
+
+v2.0 </text>
+
+<!-- ========================================================= -->
+
+<!-- LEFT COLUMN -->
+
+<!-- ========================================================= -->
+
+<text
+x="45"
+y="94"
+fill="#A855F7"
+font-family="monospace"
+font-size="12"
+letter-spacing="2"
+
+>
+
+IDENTITY </text>
+
+<text
+x="45"
+y="133"
+fill="#F0F6FC"
+font-family="Arial, sans-serif"
+font-size="32"
+font-weight="700"
+
+>
+
+Anisha Ghosh </text>
+
+<text
+x="45"
+y="160"
+fill="#8B949E"
+font-family="monospace"
+font-size="14"
+
+>
+
+Frontend Developer </text>
+
+<text
+x="45"
+y="183"
+fill="#8B949E"
+font-family="monospace"
+font-size="14"
+
+>
+
+AI Builder </text>
+
+<!-- Online status -->
+
+<circle
+cx="52"
+cy="218"
+r="5"
+fill="#3FB950"
+filter="url(#softGlow)"
 />
 
-<img
- src="https://raw.githubusercontent.com/Anisha-0505007/Anisha-0505007/output/pacman-contribution-graph.svg"
- alt="Pac-Man contribution graph"
- width="100%"
+<text
+x="67"
+y="223"
+fill="#3FB950"
+font-family="monospace"
+font-size="13"
+
+>
+
+ONLINE </text>
+
+<text
+x="132"
+y="223"
+fill="#6E7681"
+font-family="monospace"
+font-size="13"
+
+>
+
+· currently building </text>
+
+<!-- Location -->
+
+<text
+x="45"
+y="259"
+fill="#6E7681"
+font-family="monospace"
+font-size="12"
+
+>
+
+LOCATION </text>
+
+<text
+x="130"
+y="259"
+fill="#E6EDF3"
+font-family="monospace"
+font-size="12"
+
+>
+
+India </text>
+
+<!-- Mode -->
+
+<text
+x="45"
+y="292"
+fill="#6E7681"
+font-family="monospace"
+font-size="12"
+
+>
+
+MODE </text>
+
+<text
+x="130"
+y="292"
+fill="#E6EDF3"
+font-family="monospace"
+font-size="12"
+
+>
+
+BUILD / LEARN / SHIP </text>
+
+<!-- Progress bar -->
+
+<rect
+x="45"
+y="326"
+width="310"
+height="5"
+rx="3"
+fill="#21262D"
 />
 
-</picture>
-
-<br>
-
-<sub>
-PAC-MAN EATS MY CONTRIBUTIONS
-</sub>
-
-</div>
-
----
-
-## `04 / CURRENTLY_BUILDING`
-
-<table>
-<tr>
-
-<td width="50%">
-
-### FRONTEND
-
-Building interfaces with a focus on:
-
-* responsive layouts
-* interaction
-* component architecture
-* visual polish
-
-</td>
-
-<td width="50%">
-
-### AI
-
-Exploring:
-
-* AI-powered products
-* APIs
-* automation
-* practical AI integrations
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-### DSA
-
-Currently working on:
-
-* problem solving
-* algorithms
-* data structures
-* LeetCode
-
-</td>
-
-<td width="50%">
-
-### OPEN SOURCE
-
-Learning through:
-
-* real codebases
-* collaboration
-* documentation
-* contributing
-
-</td>
-
-</tr>
-</table>
-
----
-
-## `05 / PROJECTS`
-
-<details open>
-<summary><b>EXAMIFY</b> — Practice papers to exam environment</summary>
-
-<br>
-
-A web application that transforms practice papers into a realistic examination experience.
-
-`JavaScript` · `OCR` · `Frontend`
-
-</details>
-
-<br>
-
-<details>
-<summary><b>QUERYFORGE</b> — Data and backend project</summary>
-
-<br>
-
-A project exploring data workflows and backend-oriented development.
-
-`Python` · `Data`
-
-</details>
-
-<br>
-
-<details>
-<summary><b>TRANSCRIBLY</b> — Speech to text</summary>
-
-<br>
-
-A browser-based speech-to-text application using web APIs.
-
-`JavaScript` · `Web APIs`
-
-</details>
-
-<br>
-
-<details>
-<summary><b>PORTFOLIO</b> — Personal website</summary>
-
-<br>
-
-My personal portfolio showcasing projects, skills, experiments, and what I'm currently building.
-
-<br>
-
-<a href="https://anisha-ghosh.in/">
-  Visit anisha-ghosh.in
-</a>
-
-<br><br>
-
-`HTML` · `CSS` · `JavaScript`
-
-</details>
-
----
-
-## `06 / ACHIEVEMENTS`
-
-<div align="center">
-
-| Metric                    |          Result         |
-| :------------------------ | :---------------------: |
-| National Science Olympiad |    **School Rank 1**    |
-| LeetCode                  |    **100+ Problems**    |
-| Current Focus             | **Frontend + AI + DSA** |
-
-</div>
-
----
-
-## `07 / GITHUB_ANALYTICS`
-
-<div align="center">
-
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api?username=Anisha-0505007&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=E5E7EB&rank_icon=github"
-alt="GitHub statistics"
+<rect
+x="45"
+y="326"
+width="235"
+height="5"
+rx="3"
+fill="url(#progress)"
 />
 
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anisha-0505007&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=E5E7EB"
-alt="Top programming languages"
+<text
+x="45"
+y="352"
+fill="#6E7681"
+font-family="monospace"
+font-size="11"
+
+>
+
+EXPERIENCE POINTS </text>
+
+<text
+x="310"
+y="352"
+fill="#A855F7"
+font-family="monospace"
+font-size="11"
+
+>
+
+76% </text>
+
+<!-- Divider -->
+
+<line
+x1="405"
+y1="78"
+x2="405"
+y2="350"
+stroke="#30363D"
+stroke-width="1"
 />
 
-</div>
+<!-- ========================================================= -->
 
-<br>
+<!-- MIDDLE COLUMN -->
 
-<div align="center">
+<!-- ========================================================= -->
 
-<img
-src="https://github-readme-streak-stats.herokuapp.com/?user=Anisha-0505007&hide_border=true&background=0D1117&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6&sideLabels=E5E7EB&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=6B7280"
-alt="GitHub contribution streak"
+<text
+x="445"
+y="94"
+fill="#A855F7"
+font-family="monospace"
+font-size="12"
+letter-spacing="2"
+
+>
+
+CURRENT_FOCUS </text>
+
+<!-- Focus 01 -->
+
+<rect
+x="445"
+y="112"
+width="300"
+height="48"
+rx="9"
+fill="#0D1117"
+stroke="#21262D"
 />
 
-</div>
+<text
+x="462"
+y="133"
+fill="#7C3AED"
+font-family="monospace"
+font-size="11"
 
----
+>
 
-## `08 / FIND_ME`
+01 </text>
 
-<div align="center">
+<text
+x="493"
+y="133"
+fill="#E6EDF3"
+font-family="monospace"
+font-size="13"
 
-<a href="https://anisha-ghosh.in/">
-  <img
-    src="https://img.shields.io/badge/PORTFOLIO-8B5CF6?style=for-the-badge&labelColor=0D1117"
-    alt="Portfolio"
-  />
-</a>
+>
 
-<a href="https://github.com/Anisha-0505007">
-  <img
-    src="https://img.shields.io/badge/GITHUB-FFFFFF?style=for-the-badge&labelColor=0D1117&logo=github&logoColor=white"
-    alt="GitHub"
-  />
-</a>
+Frontend Experiences </text>
 
-<a href="https://www.linkedin.com/in/anisha-ghosh-6345ba312/">
-  <img
-    src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&labelColor=0D1117&logo=linkedin&logoColor=white"
-    alt="LinkedIn"
-  />
-</a>
+<text
+x="493"
+y="150"
+fill="#6E7681"
+font-family="monospace"
+font-size="10"
 
-<a href="mailto:ghoshanisha557@gmail.com">
-  <img
-    src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&labelColor=0D1117&logo=gmail&logoColor=white"
-    alt="Email"
-  />
-</a>
+>
 
-</div>
+UI · interaction · performance </text>
 
-<br>
+<!-- Focus 02 -->
 
-<div align="center">
+<rect
+x="445"
+y="170"
+width="300"
+height="48"
+rx="9"
+fill="#0D1117"
+stroke="#21262D"
+/>
 
-```text
-$ echo "build something worth remembering"
+<text
+x="462"
+y="191"
+fill="#7C3AED"
+font-family="monospace"
+font-size="11"
 
-build something worth remembering
-```
+>
 
-</div>
+02 </text>
+
+<text
+x="493"
+y="191"
+fill="#E6EDF3"
+font-family="monospace"
+font-size="13"
+
+>
+
+AI Applications </text>
+
+<text
+x="493"
+y="208"
+fill="#6E7681"
+font-family="monospace"
+font-size="10"
+
+>
+
+APIs · automation · experiments </text>
+
+<!-- Focus 03 -->
+
+<rect
+x="445"
+y="228"
+width="300"
+height="48"
+rx="9"
+fill="#0D1117"
+stroke="#21262D"
+/>
+
+<text
+x="462"
+y="249"
+fill="#7C3AED"
+font-family="monospace"
+font-size="11"
+
+>
+
+03 </text>
+
+<text
+x="493"
+y="249"
+fill="#E6EDF3"
+font-family="monospace"
+font-size="13"
+
+>
+
+DSA </text>
+
+<text
+x="493"
+y="266"
+fill="#6E7681"
+font-family="monospace"
+font-size="10"
+
+>
+
+algorithms · problem solving </text>
+
+<!-- Focus 04 -->
+
+<rect
+x="445"
+y="286"
+width="300"
+height="48"
+rx="9"
+fill="#0D1117"
+stroke="#21262D"
+/>
+
+<text
+x="462"
+y="307"
+fill="#7C3AED"
+font-family="monospace"
+font-size="11"
+
+>
+
+04 </text>
+
+<text
+x="493"
+y="307"
+fill="#E6EDF3"
+font-family="monospace"
+font-size="13"
+
+>
+
+Open Source </text>
+
+<text
+x="493"
+y="324"
+fill="#6E7681"
+font-family="monospace"
+font-size="10"
+
+>
+
+contribute · collaborate · learn </text>
+
+<!-- Divider -->
+
+<line
+x1="785"
+y1="78"
+x2="785"
+y2="350"
+stroke="#30363D"
+stroke-width="1"
+/>
+
+<!-- ========================================================= -->
+
+<!-- RIGHT COLUMN -->
+
+<!-- ========================================================= -->
+
+<text
+x="825"
+y="94"
+fill="#A855F7"
+font-family="monospace"
+font-size="12"
+letter-spacing="2"
+
+>
+
+STACK </text>
+
+<!-- JavaScript -->
+
+<rect
+x="825"
+y="113"
+width="100"
+height="30"
+rx="7"
+fill="#171B22"
+stroke="#30363D"
+/>
+
+<text
+x="850"
+y="133"
+fill="#E6EDF3"
+font-family="monospace"
+font-size="11"
+
+>
+
+JavaScript </text>
+
+<!-- React -->
+
+<rect
+x="935"
+y="113"
+width="80"
+height="30"
+rx="7"
+fill="#171B22"
+stroke="#30363D"
+/>
+
+<text
+x="957"
+y="133"
+fill="#E6EDF3"
+font-family="monospace"
+font-size="11"
+
+>
+
+React </text>
+
+<!-- Python -->
+
+<rect
+x="825"
+y="152"
+width="80"
+height="30"
+rx="7"
+fill="#171B22"
+stroke="#30363D"
+/>
+
+<text
+x="849"
+y="172"
+fill="#E6EDF3"
+font-family="monospace"
+font-size="11"
+
+>
+
+Python </text>
+
+<!-- Java -->
+
+<rect
+x="915"
+y="152"
+width="70"
+height="30"
+rx="7"
+fill="#171B22"
+stroke="#30363D"
+/>
+
+<text
+x="938"
+y="172"
+fill="#E6EDF3"
+font-family="monospace"
+font-size="11"
+
+>
+
+Java </text>
+
+<!-- Node -->
+
+<rect
+x="995"
+y="152"
+width="70"
+height="30"
+rx="7"
+fill="#171B22"
+stroke="#30363D"
+/>
+
+<text
+x="1013"
+y="172"
+fill="#E6EDF3"
+font-family="monospace"
+font-size="11"
+
+>
+
+Node </text>
+
+<!-- MySQL -->
+
+<rect
+x="825"
+y="191"
+width="80"
+height="30"
+rx="7"
+fill="#171B22"
+stroke="#30363D"
+/>
+
+<text
+x="846"
+y="211"
+fill="#E6EDF3"
+font-family="monospace"
+font-size="11"
+
+>
+
+MySQL </text>
+
+<!-- Git -->
+
+<rect
+x="915"
+y="191"
+width="70"
+height="30"
+rx="7"
+fill="#171B22"
+stroke="#30363D"
+/>
+
+<text
+x="936"
+y="211"
+fill="#E6EDF3"
+font-family="monospace"
+font-size="11"
+
+>
+
+Git </text>
+
+<!-- Quick action -->
+
+<text
+x="825"
+y="255"
+fill="#A855F7"
+font-family="monospace"
+font-size="12"
+letter-spacing="2"
+
+>
+
+QUICK_ACTION </text>
+
+<rect
+x="825"
+y="272"
+width="240"
+height="44"
+rx="9"
+fill="#0D1117"
+stroke="#7C3AED"
+stroke-width="1"
+/>
+
+<text
+x="843"
+y="299"
+fill="#A855F7"
+font-family="monospace"
+font-size="13"
+
+>
+
+$ </text>
+
+<text
+x="865"
+y="299"
+fill="#E6EDF3"
+font-family="monospace"
+font-size="12"
+
+>
+
+open portfolio </text>
+
+<!-- Bottom accent -->
+
+<rect
+x="825"
+y="333"
+width="240"
+height="3"
+rx="2"
+fill="url(#purple)"
+/>
+
+</svg>
