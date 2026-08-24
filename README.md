@@ -27,7 +27,11 @@
 ---
 
 <p align="center">
-<img src="./profile-card.svg" width="95%" alt="Anisha Ghosh developer dashboard">
+  <img
+    src="https://raw.githubusercontent.com/Anisha-0505007/Anisha-0505007/main/profile-card.svg"
+    width="95%"
+    alt="Anisha Ghosh developer dashboard"
+  />
 </p>
 
 ---
