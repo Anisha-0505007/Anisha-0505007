@@ -16,7 +16,9 @@
   </a>
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=16&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=650&lines=%3E+building+interfaces+that+feel+alive;%3E+experimenting+with+AI;%3E+learning+by+building;%3E+turning+ideas+into+products" />
+<img
+src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=16&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=650&lines=%3E+building+interfaces+that+feel+alive;%3E+experimenting+with+AI;%3E+learning+by+building;%3E+turning+ideas+into+products"
+/>
 
 </div>
 
@@ -30,7 +32,7 @@
 │   ANISHA@GITHUB                                             │
 │   ─────────────────────────────────────────────────────────  │
 │                                                              │
-│   ROLE        Frontend Developer                             │
+│   ROLE        Full-Stack Developer                             │
 │   FOCUS       UI / AI / DSA                                  │
 │   STATUS      Building                                      │
 │   LOCATION    India                                         │
@@ -104,28 +106,29 @@ through projects, DSA, experimentation, and open source.
 
 <div align="center">
 
-### CONTRIBUTION SNAKE
+### PAC-MAN // CONTRIBUTION MODE
 
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Anisha-0505007/Anisha-0505007/output/github-snake-dark.svg"
+    srcset="https://raw.githubusercontent.com/Anisha-0505007/Anisha-0505007/output/pacman-contribution-graph-dark.svg"
   />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Anisha-0505007/Anisha-0505007/output/github-snake.svg"
-  />
-  <img
-    alt="GitHub contribution snake animation"
-    src="https://raw.githubusercontent.com/Anisha-0505007/Anisha-0505007/output/github-snake.svg"
-    width="100%"
-  />
-</picture>
+
+<source
+ media="(prefers-color-scheme: light)"
+ srcset="https://raw.githubusercontent.com/Anisha-0505007/Anisha-0505007/output/pacman-contribution-graph.svg"
+/>
+
+<img
+ src="https://raw.githubusercontent.com/Anisha-0505007/Anisha-0505007/output/pacman-contribution-graph.svg"
+ alt="Pac-Man contribution graph"
+ width="100%"
+/> </picture>
 
 <br>
 
 <sub>
-Every contribution becomes part of the game.
+PAC-MAN EATS MY CONTRIBUTIONS
 </sub>
 
 </div>
