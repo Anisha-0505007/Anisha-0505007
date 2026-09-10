@@ -2,7 +2,7 @@
 
 # ANISHA GHOSH
 
-### Frontend Developer · AI Builder · Problem Solver
+### Full-Stack Developer · AI Builder · Problem Solver
 
 <br>
 
